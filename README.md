@@ -6,9 +6,8 @@
 - Задача: Предсказание приблизительного возраста покупателей по фотографии лица
 - Путь реализации: Компьютерное зрение (регрессия на изображениях)
 - Стэк: Computer Vision, ResNet50, TensorFlow, Keras, MAE, Image Augmentation
-- [Ссылка на проект](https://github.com/zdoronkov96/my_projects/blob/main/predicting-the-age-of-buyers/notebook/predicting-the-age-of-buyers.ipynb)
+- [Ссылка на проект](https://github.com/zdoronkov96/my_projects/blob/main/predicting-the-age-of-buyers/notebook/determining-the-age-of-buyers.ipynb)
 <img width="1633" height="434" alt="image" src="https://github.com/user-attachments/assets/f13169d3-b5c3-4cfb-99a4-312c5a6414bd" />
-
 
 ---
 
