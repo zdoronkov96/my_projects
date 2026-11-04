@@ -7,7 +7,8 @@
 - Путь реализации: Компьютерное зрение (регрессия на изображениях)
 - Стэк: Computer Vision, ResNet50, TensorFlow, Keras, MAE, Image Augmentation
 - [Ссылка на проект](https://github.com/zdoronkov96/my_projects/blob/main/predicting-the-age-of-buyers/notebook/predicting-the-age-of-buyers.ipynb)
-<img width="1247" height="292" alt="image" src="https://github.com/user-attachments/assets/f39fa312-2415-4066-9b4c-6ad5f7c5ce16" />
+<img width="1633" height="434" alt="image" src="https://github.com/user-attachments/assets/f13169d3-b5c3-4cfb-99a4-312c5a6414bd" />
+
 
 ---
 
