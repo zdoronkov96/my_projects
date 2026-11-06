@@ -27,10 +27,3 @@
 ## 6. Зоны роста
 
 Текущая модель сфокусирована на полноте (Recall), что ведет к снижению точности (Precision). Анализ Precision-Recall кривой и подбор оптимального порога predict_proba позволит бизнесу балансировать между затратами на отправку рассылок и упущенной выгодой.
-
-## 7. Автор
-
-Виктор Здоронков
-- Telegram: [@zdoronkov96](https://t.me/zdoronkov96)
-- Email: [zdoronkov96@mail.ru](https://zdoronkov96@mail.ru/)
-- GitHub: [zdoronkov96](https://github.com/zdoronkov96)
