@@ -18,8 +18,8 @@
 <img width="1110" height="291" alt="image" src="https://github.com/user-attachments/assets/23abb535-0ae4-4d84-bb98-7b514773352e" />
 
 ## 5. Стек технологий
-- **Deep Learning & CV:** TensorFlow, Keras, Pillow (PIL), ResNet50
 - **Data Manipulation:** pandas, numpy
+- **Deep Learning & CV:** TensorFlow, Keras, Pillow (PIL), ResNet50
 - **Visualization:** matplotlib, seaborn
 
 ## 6. Зоны роста
