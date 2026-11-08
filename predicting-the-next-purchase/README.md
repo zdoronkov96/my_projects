@@ -19,11 +19,9 @@
 <img width="395" height="350" align="center" alt="image" src="https://github.com/user-attachments/assets/e036d852-1e1b-40aa-9cbd-dfcff59a7baa" />
 
 ## 5. Стек технологий
-
-- **Data Manipulation:** pandas, numpy
 - **Machine Learning:** scikit-learn, LightGBM
+- **Data Manipulation:** pandas, numpy
 - **Visualization:** matplotlib, seaborn, SHAP
 
 ## 6. Зоны роста
-
 Текущая модель сфокусирована на полноте (Recall), что ведет к снижению точности (Precision). Анализ Precision-Recall кривой и подбор оптимального порога predict_proba позволит бизнесу балансировать между затратами на отправку рассылок и упущенной выгодой.
